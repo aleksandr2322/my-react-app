@@ -1,0 +1,43 @@
+.page__footer_footer {
+  background-color: #f8f8f8;
+  padding: 40px 0;
+}
+
+.footer_r {
+  padding-left: 18%;
+  position: relative;
+}
+
+.footer_text1 {
+  font-size: 1.5rem;
+  font-weight: bold;
+  margin-bottom: 10px;
+}
+
+.footer_text2 {
+  color: #707070;
+  margin-bottom: 15px;
+  max-width: 400px;
+}
+
+.footer_text3 {
+  font-weight: bold;
+  margin-bottom: 20px;
+}
+
+.footer_l {
+  position: absolute;
+  right: 18%;
+  bottom: 20px;
+}
+
+.footer_link {
+  color: #333;
+  text-decoration: none;
+  font-weight: bold;
+  margin: 0 5px;
+}
+
+.footer_link:hover {
+  text-decoration: underline;
+}
