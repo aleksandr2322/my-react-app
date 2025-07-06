@@ -16,11 +16,11 @@ const HomePage: React.FC = () => (
     <InfoSection />
 
 
-    <h2>
+    {/* <h2>
       <Link to="/cards" style={{ textDecoration: "none", color: "inherit", cursor: "pointer" }}>
         Карточки
       </Link>
-    </h2>
+    </h2> */}
 
     <ConnectSection />
     <CtaSection />
